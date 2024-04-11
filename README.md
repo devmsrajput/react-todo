@@ -1,2 +1,2 @@
-# Todo project, used: React + redux/toolkit + tailwindcss + localStorage + custom theme
+# Todo project (React + redux/toolkit + tailwindcss + localStorage + custom theme)
 
