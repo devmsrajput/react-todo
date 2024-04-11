@@ -12,4 +12,13 @@ __Hi, this is Todo Poject:__
 > > So, to avoid all these issues i thought to make it null for initialisation.
 
 __Updation:__
-> To carry on update values from one component to another i have used Redux to manage these values state, even though in this case we can go through prop drilling as well instead of carring values(id of todo, add/update) through Redux. In my react-basics > myTodo repository, i have done value updation through prop drilling.
+> To carry on update values from one component to another i have used Redux to manage these values state, even though in this case we can go through prop drilling as well instead of carring values(id of todo, add/update) through Redux. In my ```react-basics > myTodo``` repository, i have done value updation through prop drilling.
+>
+__combineReducers:__
+> Here i have used combineReducers as well, in order to combine all reducers into rootReducer, be directly we can't pass multiple reducers into store.
+
+__Theme:__
+I have implemented theme setup as well, theme states are being managed by Redux.
+
+__Will add more features in future.__
+__Thanks!__
