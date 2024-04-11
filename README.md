@@ -2,7 +2,7 @@
 
 ## Project is live at: [Todo App](https://devmsrajput.github.io/react-todo/)
 
-+ __Discription:__
++ __Description:__
   + **React:** This Todo App is built using React (Vite bundler)
   + **react-redux and redux/toolkit:** Used redux for state management.
   + **localStorage:** Used browser localStorage to store todos.
