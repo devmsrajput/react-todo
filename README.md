@@ -2,7 +2,7 @@
 
 ## **[Todo App](https://devmsrajput.github.io/react-todo/)**
 
-__Hi, this is Todo Poject, i have used Redux/Toolkit with it to manage the states.__
+__Hi, this is Todo Poject:__
 > > Why i have initialised "null" in initialState instead of empty array ([])?
 > > > I have initialised "null" in initial state just to deal with localStorage and to distinguish been the state of "todos" while loading and at time when all todos get deleted.
 > > > What if we initialise todos as empty array: When we will be initialising todos as an empty array, it will be returning an empty array when App will get load and when all todos will get deleted. So, it'll become challenging to know the state of todos while App loading and at cleared all todos.
