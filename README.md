@@ -18,7 +18,7 @@ __combineReducers:__
 > Here i have used combineReducers as well, in order to combine all reducers into rootReducer, be directly we can't pass multiple reducers into store.
 
 __Theme:__
-I have implemented theme setup as well, theme states are being managed by Redux.
+> I have implemented theme setup as well, theme states are being managed by Redux.
 
 __Will add more features in future.__
 __Thanks!__
